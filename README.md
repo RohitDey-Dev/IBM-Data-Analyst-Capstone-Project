@@ -1,4 +1,6 @@
 # IBM-Data-Analyst-Capstone-Project (Technology Trends: Current vs Future)
-•	Conducted in-depth analysis of Stack Overflow's Annual Developer Survey, leveraging web scraping, data wrangling, and exploratory data analysis to uncover critical trends in programming languages, databases, and developer demographics.
-•	Developed dynamic, interactive dashboards with IBM Cognos Analytics, showcasing pivotal insights into leading technologies such as JavaScript and Python, emerging databases like PostgreSQL and MongoDB, and the evolving demographics of developers by gender, age, and location.
-•	Revealed key industry shifts, including Python's growing dominance in AI/ML and PostgreSQL's rapid ascent among modern databases, while bringing attention to significant gender disparities within the developer community.
+•	Analyzed over 80,000 responses from Stack Overflow's Annual Developer Survey.
+•	Identified trends in programming languages, databases, and developer demographics.
+•	Created interactive dashboards with IBM Cognos Analytics, reducing report generation time by 60%.
+•	Highlighted key trends, including Python's growth in AI/ML applications.
+•	Revealed significant gender disparity in tech (93.5% male vs. 6.5% female) and trends in database usage.
